@@ -6,7 +6,7 @@ Positivus website built with Next14, Shadcn, and Tailwind.
 
 
 # ☁️ Deployed link
-https://positivus-orpin.vercel.app/
+https://positivuslanding.vercel.app/
 
 Figma:  
 https://www.figma.com/design/bv6mTDaEAtJWwpHdhizVB2/Positivus-Landing-Page-Design-(Community)?node-id=25-145&t=w6kdLVCtNaPU5RTB-0
